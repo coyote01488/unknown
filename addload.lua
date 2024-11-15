@@ -1,8 +1,10 @@
-while (true) do
-  messageboxasync("штебеде хап лучий!", "штебеде доб ес ес", 1);
-  
-  task.wait(1);
-end;
+task.spawn(function()
+    while (true) do
+      messageboxasync("штебеде хап лучий!", "штебеде доб ес ес", 1);
+      
+      task.wait(1);
+    end;
+end);
 
 local s9HSkVv1l1xazfli = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
