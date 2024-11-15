@@ -1,29 +1,3 @@
-task.spawn(function()
-    while true do
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-
-      messagebox("SHKIBIDI SHKIBIDI SHKIBIDI", "SHKIBIDI SHKIBIDI SHKIBIDI", 2)
-      
-      task.wait(1)
-    end
-end)
-
 local s9HSkVv1l1xazfli = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local Frame_2 = Instance.new("Frame")
