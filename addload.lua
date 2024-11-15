@@ -27,7 +27,7 @@ Frame.Size = UDim2.new(0, 198, 0, 96)
 UICorner.Parent = Frame
 
 Frame_2.Parent = Frame
-Frame_2.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+Frame_2.BackgroundColor3 = Color3.fromRGB(0, 125, 0)
 Frame_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_2.BorderSizePixel = 0
 Frame_2.Position = UDim2.new(0.0365717337, 0, 0.0929487571, 0)
