@@ -8,8 +8,6 @@ local DropShadow = Instance.new("ImageLabel")
 local DropShadowHolder_2 = Instance.new("Frame")
 local DropShadow_2 = Instance.new("ImageLabel")
 
---Properties:
-
 s9HSkVv1l1xazfli.Name = "s9HSkVv1l1xazfli"
 s9HSkVv1l1xazfli.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 s9HSkVv1l1xazfli.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -38,7 +36,7 @@ idk.BorderSizePixel = 0
 idk.Position = UDim2.new(-4.19197512e-08, 0, 0, 0)
 idk.Size = UDim2.new(0, 182, 0, 78)
 idk.Font = Enum.Font.FredokaOne
-idk.Text = "штебеде хап" -- Change if you want
+idk.Text = "штебеде хап"
 idk.TextColor3 = Color3.fromRGB(255, 255, 255)
 idk.TextScaled = true
 idk.TextSize = 14.000
