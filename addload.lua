@@ -15,3 +15,4 @@ Text.Font = Enum.Font.FredokaOne
 Text.Text = "MANGO MANGO + STILL WATER + BALKAN PARENTS + THOSE WHO KNOW"
 Text.TextColor3 = Color3.fromRGB(255, 255, 255)
 Text.TextSize = 24
+Text.TextScaled = true
