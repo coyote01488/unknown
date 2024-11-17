@@ -11,7 +11,14 @@ Label.Parent = Screen
 Label.BackgroundTransparency = 1
 Label.Position = UDim2.new(0, 0, 0, 0)
 Label.Size = UDim2.new(1, 0, 1, 0)
-Label.Text = "Still water + adrenaline + noradrenaline + hawk tuah + anger issues + balkan parents + english or Spanish + german stare + Balkan rage + jonkler laugh + Swiggled + Lithuanian testie twiddle + Latvian moaning + Estonian blood pressure + Mesopotamian testicle tag + phonk + those who know"
+Label.Text = "STILL WATER + ADRENALINE + NORADRENALINE + HAWK TUAH + ANGER ISSUES + BALKAN PARENTS + ENGLISH OR SPANISH + GERMAN STARE + BALKAN RAGE + JONKLER LAUGH + SWIGGLED + LITHUANIAN TESTIE TWIDDLE + LATVIAN MOANING + ESTONIAN BLOOD PRESSURE + MESOPOTAMIAN TESTICLE TAG + PHONK + THOSE WHO KNOW
+
+
+
+
+
+
+"
 Label.TextColor3 = Color3.fromRGB(255, 0, 0)
 Label.TextScaled = true
 Label.TextSize = 32
