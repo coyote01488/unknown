@@ -1,11 +1,27 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yolobradda/fischjvrre/refs/heads/main/fishrelease"))()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-GuiStealer-12751", true))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kidxnox/f/refs/heads/main/f"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/gameprober-lua/main/gp.lua"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitler69/InfiniteWare/refs/heads/main/Launcher",true))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Free-Hub-Watermark-18808"))()
 
-loadstring(game:HttpGet('https://e-z.tools/p/raw/yw6t8q7fi2'))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Chat-Bypasser-V4-dot-8-22727"))()
 
-loadstring(game:HttpGet("https://noname-hub.fun/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/SimpleSpyV3/main.lua"))()
+
+loadstring(game:HttpGet("https://x-ro.cc/modules/loadstring.lua"))()
+
+local owner = "Upbolt"
+local branch = "revision"
+
+local function webImport(file)
+    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')()
+end
+
+webImport("init")
+webImport("ui/main")
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()
