@@ -1,1 +1,1 @@
-print("SIGMA")
+print("1")
